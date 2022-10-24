@@ -1,0 +1,4 @@
+(
+  title: "ブロック崩し",
+  dimensions: Some((480, 600)),
+)
